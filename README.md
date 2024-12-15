@@ -4,6 +4,9 @@
 
 An integrated development environment for the esolang Brainfuck. It includes a text editor with syntax highlighting, an interpreter, debugging with stepping, and Turing Machine simulator.
 
+## Demo
+![image](https://github.com/user-attachments/assets/ee1274e0-6152-4027-8627-01b7fa57de31)
+
 ## How to test and run the interpreter
 
 **Ensure you have the [nix package manager](https://nixos.org/download/) installed or the code will not compile!**
